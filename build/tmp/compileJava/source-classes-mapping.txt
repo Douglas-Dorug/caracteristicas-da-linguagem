@@ -1,2 +1,11 @@
 one/digitalinnovation/classes/Programa.java
  one.digitalinnovation.classes.Programa
+one/digitalinnovation/tipos/primitivos/Primitivos.java
+ one.digitalinnovation.tipos.primitivos.Primitivos
+one/digitalinnovation/tipos/primitivos/DefaultValues.java
+ one.digitalinnovation.tipos.primitivos.Default
+ one.digitalinnovation.tipos.primitivos.DefaultValues
+one/digitalinnovation/classes/usuario/SuperUsuario.java
+ one.digitalinnovation.classes.usuario.SuperUsuario
+one/digitalinnovation/classes/usuario/ProgramaDoSuperUsuario.java
+ one.digitalinnovation.classes.usuario.ProgramaDoSuperUsuario
