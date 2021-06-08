@@ -1,6 +1,6 @@
 package one.digitalinnovation.tipos.naoprimitivos;
 
-public class NãoPrimitivos {
+public class NaoPrimitivos {
 
     public static void main(String[] args) {
 

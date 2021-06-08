@@ -1,5 +1,9 @@
-one/digitalinnovation/classes/Programa.java
- one.digitalinnovation.classes.Programa
+one/digitalinnovation/tipos/wrappers/Wrappers.java
+ one.digitalinnovation.tipos.wrappers.Wrappers
+one/digitalinnovation/tipos/naoprimitivos/Unboxing.java
+ one.digitalinnovation.tipos.naoprimitivos.Unboxing
+one/digitalinnovation/tipos/naoprimitivos/NaoPrimitivos.java
+ one.digitalinnovation.tipos.naoprimitivos.NaoPrimitivos
 one/digitalinnovation/tipos/primitivos/Primitivos.java
  one.digitalinnovation.tipos.primitivos.Primitivos
 one/digitalinnovation/tipos/primitivos/DefaultValues.java
@@ -9,3 +13,17 @@ one/digitalinnovation/classes/usuario/SuperUsuario.java
  one.digitalinnovation.classes.usuario.SuperUsuario
 one/digitalinnovation/classes/usuario/ProgramaDoSuperUsuario.java
  one.digitalinnovation.classes.usuario.ProgramaDoSuperUsuario
+one/digitalinnovation/classes/Programa.java
+ one.digitalinnovation.classes.Programa
+one/digitalinnovation/interfaces/Carro.java
+ one.digitalinnovation.interfaces.Carro
+one/digitalinnovation/interfaces/Trator.java
+ one.digitalinnovation.interfaces.Trator
+one/digitalinnovation/interfaces/Gol.java
+ one.digitalinnovation.interfaces.Gol
+one/digitalinnovation/interfaces/Veiculo.java
+ one.digitalinnovation.interfaces.Veiculo
+one/digitalinnovation/interfaces/Programa.java
+ one.digitalinnovation.interfaces.Programa
+one/digitalinnovation/interfaces/Fiesta.java
+ one.digitalinnovation.interfaces.Fiesta
